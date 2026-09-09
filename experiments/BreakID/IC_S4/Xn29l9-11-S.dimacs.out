@@ -1,0 +1,18 @@
+*** Reading instance: ./instances/IC_S4_rectif/Xn29l9-11-S.dimacs
+*** Creating first graph...
+*** Detecting symmetry group...
+**** symmetry generators detected: 2
+*** Detecting subgroups...
+**** subgroups detected: 1
+**** matrices detected: 0
+**** row swaps detected: 0
+**** extra binary symmetry breaking clauses added: 3
+**** regular symmetry breaking clauses added: 11
+**** row interchangeability breaking clauses added: 0
+**** total symmetry breaking clauses added: 14
+**** auxiliary variables introduced: 5
+*** Printing resulting theory with symmetry breaking clauses...
+
+real	0m0.221s
+user	0m0.023s
+sys	0m0.003s
