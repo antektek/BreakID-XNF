@@ -1,0 +1,18 @@
+*** Reading instance: ./instances/Syndrome_80_100/SD_100_100000.cnf
+*** Creating first graph...
+*** Detecting symmetry group...
+**** symmetry generators detected: 143
+*** Detecting subgroups...
+**** subgroups detected: 75
+**** matrices detected: 0
+**** row swaps detected: 0
+**** extra binary symmetry breaking clauses added: 143
+**** regular symmetry breaking clauses added: 656
+**** row interchangeability breaking clauses added: 0
+**** total symmetry breaking clauses added: 799
+**** auxiliary variables introduced: 314
+*** Printing resulting theory with symmetry breaking clauses...
+
+real	0m0.267s
+user	0m0.248s
+sys	0m0.013s
