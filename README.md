@@ -18,6 +18,19 @@ This repository is composed of the following folders:
 
 - experiments: contains the results of our experiments. The folder "BreakID" contains the results returned by our tool when detecting symmetries. The folders "CMS-Base" and "CMS-Sym" contain the results obtained with the solver [CryptoMiniSat](https://github.com/msoos/cryptominisat) (version 5.11.19) respectively on the original and the augmented instances
 
+# Reference
 
+A paper is to appear in ICTAI 2026:
 
-
+```
+@inproceedings{BlommeCherifSaisICTAI2026,
+  author       = {Anthony Blomme and
+                  Sami Cherif and
+                  Lakhdar Sais},
+  title        = {Symmetry Detection and Breaking in Cryptographic XNF Instances},
+  booktitle    = {38th {IEEE} International Conference on Tools with Artificial Intelligence,
+                  {ICTAI} 2026, Boca Raton FL, USA, November 2-4, 2026},
+  publisher    = {{IEEE}},
+  year         = {2026},
+}
+```
